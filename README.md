@@ -1,6 +1,6 @@
 # improved-diffusion
 
-Este é um fork do repositório de código para [Modelos de Difusão com Desnoising Melhorado](https://github.com/openai/improved-diffusion).
+Este é um fork do repositório de código para [Improved Denoising Diffusion Probabilistic Models](https://github.com/openai/improved-diffusion).
 
 # Uso
 
